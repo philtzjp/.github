@@ -1,6 +1,6 @@
 # Say hi to Philtz 🪄
 
-![Philtz Logo](https://github.com/philtzjp/.github/profile/img/philtz.png?raw=true)
+![Philtz Logo](https://github.com/philtzjp/.github/blob/main/images/philtz.png?raw=true)
 
 > Philtz is a collective of mixed-media artists focused on the basic research, experimentation, and artistic exploration of "magical experiences" implemented into society through reliable technology.
 
