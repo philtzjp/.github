@@ -2,9 +2,11 @@
 
 <img src="https://github.com/philtzjp/.github/blob/main/images/philtz.png?raw=true" width="150px" alt="Philtz Logo">
 
-> Philtz is a collective of mixed-media artists focused on the basic research, experimentation, and artistic exploration of "magical experiences" implemented into society through reliable technology.
+> **魔法体験の基礎研究** — Fundamental research on magical experiences
 
-Philtzは、信頼性の高いテクノロジーによって社会に実装される「魔法のような体験」の基礎研究、実験、芸術的探求に焦点を当てた、ミクストメディアアーティストのコレクティブです。
+"フィルツ"は、ミクストメディア芸術家によるコレクティブです。心がはっと目を醒ますような [ 魔法体験 ] が、確かな技術により社会に自然と実装される未来を見据え、私たちはその基礎研究、実証実験、芸術的探究を行っています。
+
+Philtz is a collective of mixed-media artists. Envisioning a future where heart-awakening [magical experiences] are naturally implemented in society through reliable technology, we conduct foundational research, proof-of-concept experiments, and artistic exploration.
 
 ---
 
