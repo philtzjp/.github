@@ -8,6 +8,15 @@ Philtz is a collective of mixed-media artists. Envisioning a future where heart-
 
 ---
 
+## Activity
+
+<picture>
+  <source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/philtzjp/.github/main/images/stats-narrow-dark.svg">
+  <source media="(max-width: 600px)" srcset="https://raw.githubusercontent.com/philtzjp/.github/main/images/stats-narrow-light.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/philtzjp/.github/main/images/stats-wide-dark.svg">
+  <img src="https://raw.githubusercontent.com/philtzjp/.github/main/images/stats-wide-light.svg" width="100%" alt="Philtz on GitHub: repositories, commits in the last 52 weeks, and languages, including private repositories">
+</picture>
+
 ## Activities
 
 このOrganizationでは、Philtzの活動で制作されたソフトウェア、ハードウェア、その他技術的なプロジェクトに関するソースコードや資料を公開します。

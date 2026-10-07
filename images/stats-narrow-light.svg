@@ -1,0 +1,138 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="360" height="302" viewBox="0 0 360 302" font-family='-apple-system, BlinkMacSystemFont, "Segoe UI", "Noto Sans", Helvetica, Arial, sans-serif'>
+<title>Philtz on GitHub: 41 repositories; 7,693 commits in the last 52 weeks; languages: Rust 39.1%, TypeScript 37.5%, Vue 10.0%, C++ 6.0%, Swift 1.6%, Other 5.9%</title>
+<rect x="0.5" y="0.5" width="116.3" height="171.0" rx="10" fill="none" stroke="#d1d9e0"/>
+<text x="14.0" y="25.0" font-size="11" font-weight="600" fill="#59636e" text-anchor="start">Repositories</text>
+<text x="14.0" y="64.6" font-size="36" font-weight="600" fill="#1f2328" text-anchor="start">41</text>
+<text x="14.0" y="120.8" font-size="12" font-weight="400" fill="#1f2328" text-anchor="start">36 private</text>
+<text x="14.0" y="139.4" font-size="12" font-weight="400" fill="#1f2328" text-anchor="start">5 public</text>
+<text x="14.0" y="158.0" font-size="12" font-weight="400" fill="#59636e" text-anchor="start">78 archived</text>
+<rect x="125.8" y="0.5" width="233.7" height="171.0" rx="10" fill="none" stroke="#d1d9e0"/>
+<text x="139.3" y="25.0" font-size="11" font-weight="600" fill="#59636e" text-anchor="start">Commits in the last 52 weeks</text>
+<text x="346.0" y="25.0" font-size="11" font-weight="600" fill="#1f2328" text-anchor="end">7,693</text>
+<rect x="139.33" y="38.20" width="2.47" height="101.80" rx="1" fill="#eff2f5"/>
+<rect x="139.33" y="135.86" width="2.47" height="4.14" rx="1" fill="#1f2328"/>
+<rect x="143.31" y="38.20" width="2.47" height="101.80" rx="1" fill="#eff2f5"/>
+<rect x="147.28" y="38.20" width="2.47" height="101.80" rx="1" fill="#eff2f5"/>
+<rect x="147.28" y="137.21" width="2.47" height="2.79" rx="1" fill="#1f2328"/>
+<rect x="151.26" y="38.20" width="2.47" height="101.80" rx="1" fill="#eff2f5"/>
+<rect x="151.26" y="137.13" width="2.47" height="2.87" rx="1" fill="#1f2328"/>
+<rect x="155.23" y="38.20" width="2.47" height="101.80" rx="1" fill="#eff2f5"/>
+<rect x="155.23" y="138.50" width="2.47" height="1.50" rx="1" fill="#1f2328"/>
+<rect x="159.21" y="38.20" width="2.47" height="101.80" rx="1" fill="#eff2f5"/>
+<rect x="163.18" y="38.20" width="2.47" height="101.80" rx="1" fill="#eff2f5"/>
+<rect x="167.15" y="38.20" width="2.47" height="101.80" rx="1" fill="#eff2f5"/>
+<rect x="167.15" y="138.50" width="2.47" height="1.50" rx="1" fill="#1f2328"/>
+<rect x="171.13" y="38.20" width="2.47" height="101.80" rx="1" fill="#eff2f5"/>
+<rect x="171.13" y="138.50" width="2.47" height="1.50" rx="1" fill="#1f2328"/>
+<rect x="175.10" y="38.20" width="2.47" height="101.80" rx="1" fill="#eff2f5"/>
+<rect x="175.10" y="138.50" width="2.47" height="1.50" rx="1" fill="#1f2328"/>
+<rect x="179.08" y="38.20" width="2.47" height="101.80" rx="1" fill="#eff2f5"/>
+<rect x="179.08" y="132.23" width="2.47" height="7.77" rx="1" fill="#1f2328"/>
+<rect x="183.05" y="38.20" width="2.47" height="101.80" rx="1" fill="#eff2f5"/>
+<rect x="183.05" y="135.02" width="2.47" height="4.98" rx="1" fill="#1f2328"/>
+<rect x="187.03" y="38.20" width="2.47" height="101.80" rx="1" fill="#eff2f5"/>
+<rect x="187.03" y="134.68" width="2.47" height="5.32" rx="1" fill="#1f2328"/>
+<text x="188.3" y="155.0" font-size="10" font-weight="400" fill="#59636e" text-anchor="middle">Jan</text>
+<rect x="191.00" y="38.20" width="2.47" height="101.80" rx="1" fill="#eff2f5"/>
+<rect x="191.00" y="138.50" width="2.47" height="1.50" rx="1" fill="#1f2328"/>
+<rect x="194.97" y="38.20" width="2.47" height="101.80" rx="1" fill="#eff2f5"/>
+<rect x="194.97" y="134.85" width="2.47" height="5.15" rx="1" fill="#1f2328"/>
+<rect x="198.95" y="38.20" width="2.47" height="101.80" rx="1" fill="#eff2f5"/>
+<rect x="198.95" y="127.76" width="2.47" height="12.24" rx="1" fill="#1f2328"/>
+<rect x="202.92" y="38.20" width="2.47" height="101.80" rx="1" fill="#eff2f5"/>
+<rect x="202.92" y="126.92" width="2.47" height="13.08" rx="1" fill="#1f2328"/>
+<rect x="206.90" y="38.20" width="2.47" height="101.80" rx="1" fill="#eff2f5"/>
+<rect x="206.90" y="135.27" width="2.47" height="4.73" rx="1" fill="#1f2328"/>
+<rect x="210.87" y="38.20" width="2.47" height="101.80" rx="1" fill="#eff2f5"/>
+<rect x="210.87" y="137.72" width="2.47" height="2.28" rx="1" fill="#1f2328"/>
+<rect x="214.85" y="38.20" width="2.47" height="101.80" rx="1" fill="#eff2f5"/>
+<rect x="214.85" y="138.48" width="2.47" height="1.52" rx="1" fill="#1f2328"/>
+<rect x="218.82" y="38.20" width="2.47" height="101.80" rx="1" fill="#eff2f5"/>
+<rect x="218.82" y="137.21" width="2.47" height="2.79" rx="1" fill="#1f2328"/>
+<rect x="222.79" y="38.20" width="2.47" height="101.80" rx="1" fill="#eff2f5"/>
+<rect x="222.79" y="134.43" width="2.47" height="5.57" rx="1" fill="#1f2328"/>
+<rect x="226.77" y="38.20" width="2.47" height="101.80" rx="1" fill="#eff2f5"/>
+<rect x="226.77" y="135.27" width="2.47" height="4.73" rx="1" fill="#1f2328"/>
+<rect x="230.74" y="38.20" width="2.47" height="101.80" rx="1" fill="#eff2f5"/>
+<rect x="230.74" y="133.84" width="2.47" height="6.16" rx="1" fill="#1f2328"/>
+<rect x="234.72" y="38.20" width="2.47" height="101.80" rx="1" fill="#eff2f5"/>
+<rect x="234.72" y="131.14" width="2.47" height="8.86" rx="1" fill="#1f2328"/>
+<rect x="238.69" y="38.20" width="2.47" height="101.80" rx="1" fill="#eff2f5"/>
+<rect x="238.69" y="122.44" width="2.47" height="17.56" rx="1" fill="#1f2328"/>
+<text x="239.9" y="155.0" font-size="10" font-weight="400" fill="#59636e" text-anchor="middle">Apr</text>
+<rect x="242.67" y="38.20" width="2.47" height="101.80" rx="1" fill="#eff2f5"/>
+<rect x="242.67" y="129.11" width="2.47" height="10.89" rx="1" fill="#1f2328"/>
+<rect x="246.64" y="38.20" width="2.47" height="101.80" rx="1" fill="#eff2f5"/>
+<rect x="246.64" y="132.23" width="2.47" height="7.77" rx="1" fill="#1f2328"/>
+<rect x="250.62" y="38.20" width="2.47" height="101.80" rx="1" fill="#eff2f5"/>
+<rect x="250.62" y="98.98" width="2.47" height="41.02" rx="1" fill="#1f2328"/>
+<rect x="254.59" y="38.20" width="2.47" height="101.80" rx="1" fill="#eff2f5"/>
+<rect x="254.59" y="132.66" width="2.47" height="7.34" rx="1" fill="#1f2328"/>
+<rect x="258.56" y="38.20" width="2.47" height="101.80" rx="1" fill="#eff2f5"/>
+<rect x="258.56" y="129.36" width="2.47" height="10.64" rx="1" fill="#1f2328"/>
+<rect x="262.54" y="38.20" width="2.47" height="101.80" rx="1" fill="#eff2f5"/>
+<rect x="262.54" y="128.18" width="2.47" height="11.82" rx="1" fill="#1f2328"/>
+<rect x="266.51" y="38.20" width="2.47" height="101.80" rx="1" fill="#eff2f5"/>
+<rect x="266.51" y="132.83" width="2.47" height="7.17" rx="1" fill="#1f2328"/>
+<rect x="270.49" y="38.20" width="2.47" height="101.80" rx="1" fill="#eff2f5"/>
+<rect x="270.49" y="135.70" width="2.47" height="4.30" rx="1" fill="#1f2328"/>
+<rect x="274.46" y="38.20" width="2.47" height="101.80" rx="1" fill="#eff2f5"/>
+<rect x="274.46" y="109.53" width="2.47" height="30.47" rx="1" fill="#1f2328"/>
+<rect x="278.44" y="38.20" width="2.47" height="101.80" rx="1" fill="#eff2f5"/>
+<rect x="278.44" y="133.84" width="2.47" height="6.16" rx="1" fill="#1f2328"/>
+<rect x="282.41" y="38.20" width="2.47" height="101.80" rx="1" fill="#eff2f5"/>
+<rect x="282.41" y="129.11" width="2.47" height="10.89" rx="1" fill="#1f2328"/>
+<rect x="286.38" y="38.20" width="2.47" height="101.80" rx="1" fill="#eff2f5"/>
+<rect x="286.38" y="102.52" width="2.47" height="37.48" rx="1" fill="#1f2328"/>
+<rect x="290.36" y="38.20" width="2.47" height="101.80" rx="1" fill="#eff2f5"/>
+<rect x="290.36" y="113.07" width="2.47" height="26.93" rx="1" fill="#1f2328"/>
+<text x="291.6" y="155.0" font-size="10" font-weight="400" fill="#59636e" text-anchor="middle">Jul</text>
+<rect x="294.33" y="38.20" width="2.47" height="101.80" rx="1" fill="#eff2f5"/>
+<rect x="294.33" y="138.50" width="2.47" height="1.50" rx="1" fill="#1f2328"/>
+<rect x="298.31" y="38.20" width="2.47" height="101.80" rx="1" fill="#eff2f5"/>
+<rect x="298.31" y="136.37" width="2.47" height="3.63" rx="1" fill="#1f2328"/>
+<rect x="302.28" y="38.20" width="2.47" height="101.80" rx="1" fill="#eff2f5"/>
+<rect x="302.28" y="138.50" width="2.47" height="1.50" rx="1" fill="#1f2328"/>
+<rect x="306.26" y="38.20" width="2.47" height="101.80" rx="1" fill="#eff2f5"/>
+<rect x="306.26" y="138.50" width="2.47" height="1.50" rx="1" fill="#1f2328"/>
+<rect x="310.23" y="38.20" width="2.47" height="101.80" rx="1" fill="#eff2f5"/>
+<rect x="310.23" y="118.90" width="2.47" height="21.10" rx="1" fill="#1f2328"/>
+<rect x="314.21" y="38.20" width="2.47" height="101.80" rx="1" fill="#eff2f5"/>
+<rect x="314.21" y="38.20" width="2.47" height="101.80" rx="1" fill="#1f2328"/>
+<rect x="318.18" y="38.20" width="2.47" height="101.80" rx="1" fill="#eff2f5"/>
+<rect x="318.18" y="124.81" width="2.47" height="15.19" rx="1" fill="#1f2328"/>
+<rect x="322.15" y="38.20" width="2.47" height="101.80" rx="1" fill="#eff2f5"/>
+<rect x="322.15" y="119.91" width="2.47" height="20.09" rx="1" fill="#1f2328"/>
+<rect x="326.13" y="38.20" width="2.47" height="101.80" rx="1" fill="#eff2f5"/>
+<rect x="326.13" y="98.47" width="2.47" height="41.53" rx="1" fill="#1f2328"/>
+<rect x="330.10" y="38.20" width="2.47" height="101.80" rx="1" fill="#eff2f5"/>
+<rect x="330.10" y="104.63" width="2.47" height="35.37" rx="1" fill="#1f2328"/>
+<rect x="334.08" y="38.20" width="2.47" height="101.80" rx="1" fill="#eff2f5"/>
+<rect x="334.08" y="83.78" width="2.47" height="56.22" rx="1" fill="#1f2328"/>
+<rect x="338.05" y="38.20" width="2.47" height="101.80" rx="1" fill="#eff2f5"/>
+<rect x="338.05" y="126.33" width="2.47" height="13.67" rx="1" fill="#1f2328"/>
+<rect x="342.03" y="38.20" width="2.47" height="101.80" rx="1" fill="#eff2f5"/>
+<rect x="342.03" y="127.93" width="2.47" height="12.07" rx="1" fill="#1f2328"/>
+<rect x="0.5" y="180.5" width="359.0" height="120.8" rx="10" fill="none" stroke="#d1d9e0"/>
+<text x="14.0" y="205.0" font-size="11" font-weight="600" fill="#59636e" text-anchor="start">Languages</text>
+<clipPath id="language-bar"><rect x="14" y="213.8" width="332" height="8" rx="4"/></clipPath>
+<g clip-path="url(#language-bar)"><rect x="14.00" y="213.8" width="129.81" height="8" fill="#dea584"/><rect x="143.81" y="213.8" width="124.41" height="8" fill="#3178c6"/><rect x="268.21" y="213.8" width="33.15" height="8" fill="#41b883"/><rect x="301.37" y="213.8" width="19.78" height="8" fill="#f34b7d"/><rect x="321.15" y="213.8" width="5.41" height="8" fill="#F05138"/><rect x="326.56" y="213.8" width="19.44" height="8" fill="#8b949e"/></g>
+<circle cx="18.7" cy="239.1" r="4.7" fill="#dea584"/>
+<text x="29.9" y="243.8" font-size="13" font-weight="600" fill="#1f2328" text-anchor="start">Rust</text>
+<text x="154.0" y="243.8" font-size="13" font-weight="400" fill="#59636e" text-anchor="end">39.1%</text>
+<circle cx="18.7" cy="261.1" r="4.7" fill="#3178c6"/>
+<text x="29.9" y="265.8" font-size="13" font-weight="600" fill="#1f2328" text-anchor="start">TypeScript</text>
+<text x="154.0" y="265.8" font-size="13" font-weight="400" fill="#59636e" text-anchor="end">37.5%</text>
+<circle cx="18.7" cy="283.1" r="4.7" fill="#41b883"/>
+<text x="29.9" y="287.8" font-size="13" font-weight="600" fill="#1f2328" text-anchor="start">Vue</text>
+<text x="154.0" y="287.8" font-size="13" font-weight="400" fill="#59636e" text-anchor="end">10.0%</text>
+<circle cx="184.7" cy="239.1" r="4.7" fill="#f34b7d"/>
+<text x="195.9" y="243.8" font-size="13" font-weight="600" fill="#1f2328" text-anchor="start">C++</text>
+<text x="346.0" y="243.8" font-size="13" font-weight="400" fill="#59636e" text-anchor="end">6.0%</text>
+<circle cx="184.7" cy="261.1" r="4.7" fill="#F05138"/>
+<text x="195.9" y="265.8" font-size="13" font-weight="600" fill="#1f2328" text-anchor="start">Swift</text>
+<text x="346.0" y="265.8" font-size="13" font-weight="400" fill="#59636e" text-anchor="end">1.6%</text>
+<circle cx="184.7" cy="283.1" r="4.7" fill="#8b949e"/>
+<text x="195.9" y="287.8" font-size="13" font-weight="600" fill="#1f2328" text-anchor="start">Other</text>
+<text x="346.0" y="287.8" font-size="13" font-weight="400" fill="#59636e" text-anchor="end">5.9%</text>
+</svg>
