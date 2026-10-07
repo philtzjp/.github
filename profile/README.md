@@ -34,6 +34,12 @@ This organization hosts the source code and materials for the software, hardware
 - [skills](https://github.com/philtzjp/skills) — The agent skills we share across every Philtz repository.
 - [startingpoint](https://github.com/philtzjp/startingpoint) — The template that every new Philtz repository starts from.
 
+## Community
+
+Join our Discord to share ideas, ask questions, and follow what we are working on.
+
+- **Discord:** [discord.gg/dAyUbqEv6V](https://discord.gg/dAyUbqEv6V)
+
 ## Contributing
 
 Contributions are welcome, from bug reports and feature ideas to pull requests. To get started, open an issue in the repository you are interested in.
@@ -41,3 +47,4 @@ Contributions are welcome, from bug reports and feature ideas to pull requests. 
 ## Links
 
 - **Website:** [philtz.com](https://philtz.com)
+- **Discord:** [discord.gg/dAyUbqEv6V](https://discord.gg/dAyUbqEv6V)
