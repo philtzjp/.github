@@ -1,7 +1,5 @@
 # Say hi to Philtz 🪄
 
-<img src="https://github.com/philtzjp/.github/blob/main/images/philtz.png?raw=true" width="150px" alt="Philtz Logo">
-
 > **魔法体験の基礎研究** — Fundamental research on magical experiences
 
 "フィルツ"は、ミクストメディア芸術家によるコレクティブです。心がはっと目を醒ますような [ 魔法体験 ] が、確かな技術により社会に自然と実装される未来を見据え、私たちはその基礎研究、実証実験、芸術的探究を行っています。
