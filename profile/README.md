@@ -17,28 +17,27 @@ Philtz is a collective of mixed-media artists. Envisioning a future where heart-
   <img src="https://raw.githubusercontent.com/philtzjp/.github/main/images/stats-wide-light.svg" width="100%" alt="Philtz on GitHub: repositories, commits in the last 52 weeks, and languages, including private repositories">
 </picture>
 
-## Activities
+## What we do
 
-このOrganizationでは、Philtzの活動で制作されたソフトウェア、ハードウェア、その他技術的なプロジェクトに関するソースコードや資料を公開します。
+This organization hosts the source code and materials for the software, hardware, and other technical projects that come out of Philtz.
 
-私たちの主な活動は以下の通りです。
+- Exchanging ideas, sharing knowledge, and troubleshooting together in our Discord community
+- Producing music, video, and other content
+- Developing software and digital products
+- Deconstructing artistic experiences through hardware development and signal processing
+- Experimenting with ways to coexist with generative AI
+- Developing methods that bring advanced technology closer to everyday life
 
-* Discordコミュニティサーバーを利用したアイデア交換、知識共有、トラブルシューティング
-* 音楽や映像などのコンテンツ制作
-* ソフトウェアおよびデジタルプロダクトの開発
-* ハードウェア開発と信号処理による芸術的体験の脱構築
-* ジェネレーティブAIとの共存に関する実験
-* 先進技術をより身近にするための手法開発
+## Featured projects
 
-## Contribution
+- [live-connector](https://github.com/philtzjp/live-connector) — An MCP server that lets AI agents read and write an Ableton Live Set as a graph.
+- [skills](https://github.com/philtzjp/skills) — The agent skills we share across every Philtz repository.
+- [startingpoint](https://github.com/philtzjp/startingpoint) — The template that every new Philtz repository starts from.
 
-私たちのプロジェクトへの貢献を歓迎します。バグの報告、機能の提案、改善のためのプルリクエストなど、あらゆる形の協力を受け付けています。
+## Contributing
 
-詳細については、各リポジトリのIssueやPull Requestをご参照ください。
+Contributions are welcome, from bug reports and feature ideas to pull requests. To get started, open an issue in the repository you are interested in.
 
+## Links
 
-## Connect with Us
-
-私たちの活動に関するより詳しい情報は、公式サイトをご覧ください。
-
-* **Official Website:** [philtz.com](https://philtz.com)
+- **Website:** [philtz.com](https://philtz.com)
