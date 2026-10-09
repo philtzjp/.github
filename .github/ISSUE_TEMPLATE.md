@@ -1,11 +1,3 @@
----
-name: タスク
-about: 実装、修正、リファクタリング、ドキュメントなど、あらゆる作業を起票する
-title: "type(scope): 動作で終わる短い日本語"
-labels: ""
-assignees: ""
----
-
 <!--
 org の全リポジトリの既定の Issue テンプレート。規約の正本は philtzjp/pulumi の .github/conventions.yml で、
 philtz-organizer-bot がこの規約でタイトルと本文を検査する。
