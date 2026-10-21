@@ -1,5 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="900" height="410" viewBox="0 0 900 410" font-family='-apple-system, BlinkMacSystemFont, "Segoe UI", "Noto Sans", Helvetica, Arial, sans-serif'>
-<title>Philtz on GitHub: 38 repositories; 7,999 commits in the last 52 weeks; languages: TypeScript 38.5%, Rust 36.3%, Vue 9.1%, C++ 5.4%, JavaScript 3.8%, Swift 2.4%, Python 1.3%, CMake 0.8%, Other 2.3%</title>
+<title>Philtz on GitHub: 38 repositories; 8,006 commits in the last 52 weeks; languages: TypeScript 38.8%, Rust 36.2%, Vue 9.1%, C++ 5.4%, JavaScript 3.8%, Swift 2.4%, Python 1.3%, CMake 0.8%, Other 2.3%</title>
 <rect x="0.5" y="0.5" width="295.0" height="231.0" rx="12" fill="none" stroke="#3d444d"/>
 <text x="24.0" y="40.0" font-size="16" font-weight="600" fill="#9198a1" text-anchor="start">Repositories</text>
 <text x="24.0" y="106.0" font-size="60" font-weight="600" fill="#f0f6fc" text-anchor="start">38</text>
@@ -8,7 +8,7 @@
 <text x="24.0" y="208.0" font-size="18" font-weight="400" fill="#9198a1" text-anchor="start">87 archived</text>
 <rect x="308.5" y="0.5" width="591.0" height="231.0" rx="12" fill="none" stroke="#3d444d"/>
 <text x="332.0" y="40.0" font-size="16" font-weight="600" fill="#9198a1" text-anchor="start">Commits in the last 52 weeks</text>
-<text x="876.0" y="40.0" font-size="16" font-weight="600" fill="#f0f6fc" text-anchor="end">7,999</text>
+<text x="876.0" y="40.0" font-size="16" font-weight="600" fill="#f0f6fc" text-anchor="end">8,006</text>
 <rect x="332.00" y="59.20" width="7.46" height="123.60" rx="1" fill="#262c36"/>
 <rect x="332.00" y="179.42" width="7.46" height="3.38" rx="1" fill="#f0f6fc"/>
 <rect x="342.46" y="59.20" width="7.46" height="123.60" rx="1" fill="#262c36"/>
@@ -122,17 +122,17 @@
 <rect x="855.08" y="59.20" width="7.46" height="123.60" rx="1" fill="#262c36"/>
 <rect x="855.08" y="155.85" width="7.46" height="26.95" rx="1" fill="#f0f6fc"/>
 <rect x="865.54" y="59.20" width="7.46" height="123.60" rx="1" fill="#262c36"/>
-<rect x="865.54" y="181.30" width="7.46" height="1.50" rx="1" fill="#f0f6fc"/>
+<rect x="865.54" y="180.75" width="7.46" height="2.05" rx="1" fill="#f0f6fc"/>
 <rect x="0.5" y="244.5" width="899.0" height="164.8" rx="12" fill="none" stroke="#3d444d"/>
 <text x="24.0" y="284.0" font-size="16" font-weight="600" fill="#9198a1" text-anchor="start">Languages</text>
 <clipPath id="language-bar"><rect x="24" y="296.8" width="852" height="11" rx="5.5"/></clipPath>
-<g clip-path="url(#language-bar)"><rect x="24.00" y="296.8" width="328.29" height="11" fill="#3178c6"/><rect x="352.29" y="296.8" width="309.53" height="11" fill="#dea584"/><rect x="661.82" y="296.8" width="77.53" height="11" fill="#41b883"/><rect x="739.35" y="296.8" width="46.33" height="11" fill="#f34b7d"/><rect x="785.68" y="296.8" width="32.66" height="11" fill="#f1e05a"/><rect x="818.34" y="296.8" width="20.44" height="11" fill="#F05138"/><rect x="838.78" y="296.8" width="11.19" height="11" fill="#3572A5"/><rect x="849.98" y="296.8" width="6.58" height="11" fill="#DA3434"/><rect x="856.55" y="296.8" width="19.45" height="11" fill="#8b949e"/></g>
+<g clip-path="url(#language-bar)"><rect x="24.00" y="296.8" width="330.63" height="11" fill="#3178c6"/><rect x="354.63" y="296.8" width="308.13" height="11" fill="#dea584"/><rect x="662.76" y="296.8" width="77.21" height="11" fill="#41b883"/><rect x="739.97" y="296.8" width="46.12" height="11" fill="#f34b7d"/><rect x="786.09" y="296.8" width="32.51" height="11" fill="#f1e05a"/><rect x="818.60" y="296.8" width="20.35" height="11" fill="#F05138"/><rect x="838.95" y="296.8" width="11.14" height="11" fill="#3572A5"/><rect x="850.09" y="296.8" width="6.55" height="11" fill="#DA3434"/><rect x="856.64" y="296.8" width="19.36" height="11" fill="#8b949e"/></g>
 <circle cx="28.7" cy="329.1" r="4.7" fill="#3178c6"/>
 <text x="39.9" y="333.8" font-size="13" font-weight="600" fill="#f0f6fc" text-anchor="start">TypeScript</text>
-<text x="282.0" y="333.8" font-size="13" font-weight="400" fill="#9198a1" text-anchor="end">38.5%</text>
+<text x="282.0" y="333.8" font-size="13" font-weight="400" fill="#9198a1" text-anchor="end">38.8%</text>
 <circle cx="28.7" cy="355.1" r="4.7" fill="#dea584"/>
 <text x="39.9" y="359.8" font-size="13" font-weight="600" fill="#f0f6fc" text-anchor="start">Rust</text>
-<text x="282.0" y="359.8" font-size="13" font-weight="400" fill="#9198a1" text-anchor="end">36.3%</text>
+<text x="282.0" y="359.8" font-size="13" font-weight="400" fill="#9198a1" text-anchor="end">36.2%</text>
 <circle cx="28.7" cy="381.1" r="4.7" fill="#41b883"/>
 <text x="39.9" y="385.8" font-size="13" font-weight="600" fill="#f0f6fc" text-anchor="start">Vue</text>
 <text x="282.0" y="385.8" font-size="13" font-weight="400" fill="#9198a1" text-anchor="end">9.1%</text>
