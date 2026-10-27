@@ -1,5 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="360" height="290" viewBox="0 0 360 290" font-family='-apple-system, BlinkMacSystemFont, "Segoe UI", "Noto Sans", Helvetica, Arial, sans-serif'>
-<title>Philtz on GitHub: 33 repositories; 8,603 commits in the last 52 weeks; languages: TypeScript 34.8%, Rust 31.4%, C++ 16.1%, Vue 7.6%, JavaScript 3.6%, Other 6.5%</title>
+<title>Philtz on GitHub: 33 repositories; 8,608 commits in the last 52 weeks; languages: TypeScript 34.8%, Rust 31.4%, C++ 16.1%, Vue 7.6%, JavaScript 3.6%, Other 6.5%</title>
 <rect x="0.5" y="0.5" width="116.3" height="171.0" rx="10" fill="none" stroke="#d1d9e0"/>
 <text x="14.0" y="25.0" font-size="11" font-weight="600" fill="#59636e" text-anchor="start">Repositories</text>
 <text x="14.0" y="64.6" font-size="36" font-weight="600" fill="#1f2328" text-anchor="start">33</text>
@@ -8,7 +8,7 @@
 <text x="14.0" y="158.0" font-size="12" font-weight="400" fill="#59636e" text-anchor="start">92 archived</text>
 <rect x="125.8" y="0.5" width="233.7" height="171.0" rx="10" fill="none" stroke="#d1d9e0"/>
 <text x="139.3" y="25.0" font-size="11" font-weight="600" fill="#59636e" text-anchor="start">Commits in the last 52 weeks</text>
-<text x="346.0" y="25.0" font-size="11" font-weight="600" fill="#1f2328" text-anchor="end">8,603</text>
+<text x="346.0" y="25.0" font-size="11" font-weight="600" fill="#1f2328" text-anchor="end">8,608</text>
 <rect x="139.33" y="38.20" width="2.47" height="101.80" rx="1" fill="#eff2f5"/>
 <rect x="139.33" y="137.16" width="2.47" height="2.84" rx="1" fill="#1f2328"/>
 <rect x="143.31" y="38.20" width="2.47" height="101.80" rx="1" fill="#eff2f5"/>
@@ -118,7 +118,7 @@
 <rect x="0.5" y="180.5" width="359.0" height="108.8" rx="10" fill="none" stroke="#d1d9e0"/>
 <text x="14.0" y="205.0" font-size="11" font-weight="600" fill="#59636e" text-anchor="start">Languages</text>
 <clipPath id="language-bar"><rect x="14" y="213.8" width="332" height="8" rx="4"/></clipPath>
-<g clip-path="url(#language-bar)"><rect x="14.00" y="213.8" width="115.65" height="8" fill="#3178c6"/><rect x="129.65" y="213.8" width="104.11" height="8" fill="#dea584"/><rect x="233.76" y="213.8" width="53.49" height="8" fill="#f34b7d"/><rect x="287.25" y="213.8" width="25.33" height="8" fill="#41b883"/><rect x="312.58" y="213.8" width="11.79" height="8" fill="#f1e05a"/><rect x="324.37" y="213.8" width="21.63" height="8" fill="#8b949e"/></g>
+<g clip-path="url(#language-bar)"><rect x="14.00" y="213.8" width="115.66" height="8" fill="#3178c6"/><rect x="129.66" y="213.8" width="104.09" height="8" fill="#dea584"/><rect x="233.76" y="213.8" width="53.48" height="8" fill="#f34b7d"/><rect x="287.23" y="213.8" width="25.33" height="8" fill="#41b883"/><rect x="312.57" y="213.8" width="11.79" height="8" fill="#f1e05a"/><rect x="324.35" y="213.8" width="21.65" height="8" fill="#8b949e"/></g>
 <circle cx="17.8" cy="236.0" r="3.8" fill="#3178c6"/>
 <text x="26.8" y="239.8" font-size="10.5" font-weight="600" fill="#1f2328" text-anchor="start">TypeScript</text>
 <text x="159.0" y="239.8" font-size="10.5" font-weight="400" fill="#59636e" text-anchor="end">34.8%</text>
