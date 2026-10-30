@@ -1,5 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="900" height="410" viewBox="0 0 900 410" font-family='-apple-system, BlinkMacSystemFont, "Segoe UI", "Noto Sans", Helvetica, Arial, sans-serif'>
-<title>Philtz on GitHub: 42 repositories; 9,264 commits in the last 52 weeks; languages: TypeScript 35.7%, Rust 26.3%, C++ 15.0%, Vue 7.2%, HTML 5.4%, JavaScript 3.0%, Swift 2.9%, Python 1.6%, Other 2.8%</title>
+<title>Philtz on GitHub: 42 repositories; 9,270 commits in the last 52 weeks; languages: TypeScript 34.2%, Rust 29.2%, C++ 12.4%, Vue 6.9%, HTML 5.7%, JavaScript 2.9%, Swift 2.8%, Python 1.6%, Other 4.4%</title>
 <rect x="0.5" y="0.5" width="295.0" height="231.0" rx="12" fill="none" stroke="#3d444d"/>
 <text x="24.0" y="40.0" font-size="16" font-weight="600" fill="#9198a1" text-anchor="start">Repositories</text>
 <text x="24.0" y="106.0" font-size="60" font-weight="600" fill="#f0f6fc" text-anchor="start">42</text>
@@ -8,7 +8,7 @@
 <text x="24.0" y="208.0" font-size="18" font-weight="400" fill="#9198a1" text-anchor="start">89 archived</text>
 <rect x="308.5" y="0.5" width="591.0" height="231.0" rx="12" fill="none" stroke="#3d444d"/>
 <text x="332.0" y="40.0" font-size="16" font-weight="600" fill="#9198a1" text-anchor="start">Commits in the last 52 weeks</text>
-<text x="876.0" y="40.0" font-size="16" font-weight="600" fill="#f0f6fc" text-anchor="end">9,264</text>
+<text x="876.0" y="40.0" font-size="16" font-weight="600" fill="#f0f6fc" text-anchor="end">9,270</text>
 <rect x="332.00" y="59.20" width="7.46" height="123.60" rx="1" fill="#262c36"/>
 <rect x="332.00" y="179.35" width="7.46" height="3.45" rx="1" fill="#f0f6fc"/>
 <rect x="342.46" y="59.20" width="7.46" height="123.60" rx="1" fill="#262c36"/>
@@ -121,36 +121,36 @@
 <rect x="855.08" y="59.20" width="7.46" height="123.60" rx="1" fill="#262c36"/>
 <rect x="855.08" y="159.95" width="7.46" height="22.85" rx="1" fill="#f0f6fc"/>
 <rect x="865.54" y="59.20" width="7.46" height="123.60" rx="1" fill="#262c36"/>
-<rect x="865.54" y="175.08" width="7.46" height="7.72" rx="1" fill="#f0f6fc"/>
+<rect x="865.54" y="174.47" width="7.46" height="8.33" rx="1" fill="#f0f6fc"/>
 <rect x="0.5" y="244.5" width="899.0" height="164.8" rx="12" fill="none" stroke="#3d444d"/>
 <text x="24.0" y="284.0" font-size="16" font-weight="600" fill="#9198a1" text-anchor="start">Languages</text>
 <clipPath id="language-bar"><rect x="24" y="296.8" width="852" height="11" rx="5.5"/></clipPath>
-<g clip-path="url(#language-bar)"><rect x="24.00" y="296.8" width="304.48" height="11" fill="#3178c6"/><rect x="328.48" y="296.8" width="224.00" height="11" fill="#dea584"/><rect x="552.48" y="296.8" width="127.45" height="11" fill="#f34b7d"/><rect x="679.93" y="296.8" width="61.63" height="11" fill="#41b883"/><rect x="741.56" y="296.8" width="46.21" height="11" fill="#e34c26"/><rect x="787.78" y="296.8" width="25.79" height="11" fill="#f1e05a"/><rect x="813.56" y="296.8" width="24.80" height="11" fill="#F05138"/><rect x="838.36" y="296.8" width="13.92" height="11" fill="#3572A5"/><rect x="852.28" y="296.8" width="23.72" height="11" fill="#8b949e"/></g>
+<g clip-path="url(#language-bar)"><rect x="24.00" y="296.8" width="291.29" height="11" fill="#3178c6"/><rect x="315.29" y="296.8" width="248.42" height="11" fill="#dea584"/><rect x="563.71" y="296.8" width="105.58" height="11" fill="#f34b7d"/><rect x="669.29" y="296.8" width="58.96" height="11" fill="#41b883"/><rect x="728.25" y="296.8" width="48.48" height="11" fill="#e34c26"/><rect x="776.73" y="296.8" width="24.80" height="11" fill="#f1e05a"/><rect x="801.53" y="296.8" width="23.72" height="11" fill="#F05138"/><rect x="825.25" y="296.8" width="13.32" height="11" fill="#3572A5"/><rect x="838.57" y="296.8" width="37.43" height="11" fill="#8b949e"/></g>
 <circle cx="28.7" cy="329.1" r="4.7" fill="#3178c6"/>
 <text x="39.9" y="333.8" font-size="13" font-weight="600" fill="#f0f6fc" text-anchor="start">TypeScript</text>
-<text x="282.0" y="333.8" font-size="13" font-weight="400" fill="#9198a1" text-anchor="end">35.7%</text>
+<text x="282.0" y="333.8" font-size="13" font-weight="400" fill="#9198a1" text-anchor="end">34.2%</text>
 <circle cx="28.7" cy="355.1" r="4.7" fill="#dea584"/>
 <text x="39.9" y="359.8" font-size="13" font-weight="600" fill="#f0f6fc" text-anchor="start">Rust</text>
-<text x="282.0" y="359.8" font-size="13" font-weight="400" fill="#9198a1" text-anchor="end">26.3%</text>
+<text x="282.0" y="359.8" font-size="13" font-weight="400" fill="#9198a1" text-anchor="end">29.2%</text>
 <circle cx="28.7" cy="381.1" r="4.7" fill="#f34b7d"/>
 <text x="39.9" y="385.8" font-size="13" font-weight="600" fill="#f0f6fc" text-anchor="start">C++</text>
-<text x="282.0" y="385.8" font-size="13" font-weight="400" fill="#9198a1" text-anchor="end">15.0%</text>
+<text x="282.0" y="385.8" font-size="13" font-weight="400" fill="#9198a1" text-anchor="end">12.4%</text>
 <circle cx="312.7" cy="329.1" r="4.7" fill="#41b883"/>
 <text x="323.9" y="333.8" font-size="13" font-weight="600" fill="#f0f6fc" text-anchor="start">Vue</text>
-<text x="566.0" y="333.8" font-size="13" font-weight="400" fill="#9198a1" text-anchor="end">7.2%</text>
+<text x="566.0" y="333.8" font-size="13" font-weight="400" fill="#9198a1" text-anchor="end">6.9%</text>
 <circle cx="312.7" cy="355.1" r="4.7" fill="#e34c26"/>
 <text x="323.9" y="359.8" font-size="13" font-weight="600" fill="#f0f6fc" text-anchor="start">HTML</text>
-<text x="566.0" y="359.8" font-size="13" font-weight="400" fill="#9198a1" text-anchor="end">5.4%</text>
+<text x="566.0" y="359.8" font-size="13" font-weight="400" fill="#9198a1" text-anchor="end">5.7%</text>
 <circle cx="312.7" cy="381.1" r="4.7" fill="#f1e05a"/>
 <text x="323.9" y="385.8" font-size="13" font-weight="600" fill="#f0f6fc" text-anchor="start">JavaScript</text>
-<text x="566.0" y="385.8" font-size="13" font-weight="400" fill="#9198a1" text-anchor="end">3.0%</text>
+<text x="566.0" y="385.8" font-size="13" font-weight="400" fill="#9198a1" text-anchor="end">2.9%</text>
 <circle cx="596.7" cy="329.1" r="4.7" fill="#F05138"/>
 <text x="607.9" y="333.8" font-size="13" font-weight="600" fill="#f0f6fc" text-anchor="start">Swift</text>
-<text x="876.0" y="333.8" font-size="13" font-weight="400" fill="#9198a1" text-anchor="end">2.9%</text>
+<text x="876.0" y="333.8" font-size="13" font-weight="400" fill="#9198a1" text-anchor="end">2.8%</text>
 <circle cx="596.7" cy="355.1" r="4.7" fill="#3572A5"/>
 <text x="607.9" y="359.8" font-size="13" font-weight="600" fill="#f0f6fc" text-anchor="start">Python</text>
 <text x="876.0" y="359.8" font-size="13" font-weight="400" fill="#9198a1" text-anchor="end">1.6%</text>
 <circle cx="596.7" cy="381.1" r="4.7" fill="#8b949e"/>
 <text x="607.9" y="385.8" font-size="13" font-weight="600" fill="#f0f6fc" text-anchor="start">Other</text>
-<text x="876.0" y="385.8" font-size="13" font-weight="400" fill="#9198a1" text-anchor="end">2.8%</text>
+<text x="876.0" y="385.8" font-size="13" font-weight="400" fill="#9198a1" text-anchor="end">4.4%</text>
 </svg>
