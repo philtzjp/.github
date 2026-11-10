@@ -1,5 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="900" height="410" viewBox="0 0 900 410" font-family='-apple-system, BlinkMacSystemFont, "Segoe UI", "Noto Sans", Helvetica, Arial, sans-serif'>
-<title>Philtz on GitHub: 44 repositories; 8,791 commits in the last 52 weeks; languages: TypeScript 33.6%, Rust 29.8%, C++ 12.6%, Vue 6.9%, HTML 6.1%, JavaScript 3.1%, Swift 1.8%, Python 1.6%, Other 4.5%</title>
+<title>Philtz on GitHub: 44 repositories; 8,793 commits in the last 52 weeks; languages: TypeScript 33.6%, Rust 29.8%, C++ 12.7%, Vue 6.9%, HTML 6.1%, JavaScript 3.1%, Swift 1.8%, Python 1.6%, Other 4.5%</title>
 <rect x="0.5" y="0.5" width="295.0" height="231.0" rx="12" fill="none" stroke="#3d444d"/>
 <text x="24.0" y="40.0" font-size="16" font-weight="600" fill="#9198a1" text-anchor="start">Repositories</text>
 <text x="24.0" y="106.0" font-size="60" font-weight="600" fill="#f0f6fc" text-anchor="start">44</text>
@@ -8,7 +8,7 @@
 <text x="24.0" y="208.0" font-size="18" font-weight="400" fill="#9198a1" text-anchor="start">89 archived</text>
 <rect x="308.5" y="0.5" width="591.0" height="231.0" rx="12" fill="none" stroke="#3d444d"/>
 <text x="332.0" y="40.0" font-size="16" font-weight="600" fill="#9198a1" text-anchor="start">Commits in the last 52 weeks</text>
-<text x="876.0" y="40.0" font-size="16" font-weight="600" fill="#f0f6fc" text-anchor="end">8,791</text>
+<text x="876.0" y="40.0" font-size="16" font-weight="600" fill="#f0f6fc" text-anchor="end">8,793</text>
 <rect x="332.00" y="59.20" width="7.46" height="123.60" rx="1" fill="#262c36"/>
 <rect x="342.46" y="59.20" width="7.46" height="123.60" rx="1" fill="#262c36"/>
 <rect x="352.92" y="59.20" width="7.46" height="123.60" rx="1" fill="#262c36"/>
@@ -126,7 +126,7 @@
 <rect x="0.5" y="244.5" width="899.0" height="164.8" rx="12" fill="none" stroke="#3d444d"/>
 <text x="24.0" y="284.0" font-size="16" font-weight="600" fill="#9198a1" text-anchor="start">Languages</text>
 <clipPath id="language-bar"><rect x="24" y="296.8" width="852" height="11" rx="5.5"/></clipPath>
-<g clip-path="url(#language-bar)"><rect x="24.00" y="296.8" width="286.67" height="11" fill="#3178c6"/><rect x="310.67" y="296.8" width="254.10" height="11" fill="#dea584"/><rect x="564.77" y="296.8" width="107.69" height="11" fill="#f34b7d"/><rect x="672.45" y="296.8" width="58.61" height="11" fill="#41b883"/><rect x="731.07" y="296.8" width="51.81" height="11" fill="#e34c26"/><rect x="782.87" y="296.8" width="26.14" height="11" fill="#f1e05a"/><rect x="809.01" y="296.8" width="15.37" height="11" fill="#F05138"/><rect x="824.38" y="296.8" width="13.49" height="11" fill="#3572A5"/><rect x="837.87" y="296.8" width="38.13" height="11" fill="#8b949e"/></g>
+<g clip-path="url(#language-bar)"><rect x="24.00" y="296.8" width="286.63" height="11" fill="#3178c6"/><rect x="310.63" y="296.8" width="254.06" height="11" fill="#dea584"/><rect x="564.70" y="296.8" width="107.78" height="11" fill="#f34b7d"/><rect x="672.48" y="296.8" width="58.60" height="11" fill="#41b883"/><rect x="731.08" y="296.8" width="51.80" height="11" fill="#e34c26"/><rect x="782.88" y="296.8" width="26.13" height="11" fill="#f1e05a"/><rect x="809.02" y="296.8" width="15.37" height="11" fill="#F05138"/><rect x="824.39" y="296.8" width="13.49" height="11" fill="#3572A5"/><rect x="837.88" y="296.8" width="38.12" height="11" fill="#8b949e"/></g>
 <circle cx="28.7" cy="329.1" r="4.7" fill="#3178c6"/>
 <text x="39.9" y="333.8" font-size="13" font-weight="600" fill="#f0f6fc" text-anchor="start">TypeScript</text>
 <text x="282.0" y="333.8" font-size="13" font-weight="400" fill="#9198a1" text-anchor="end">33.6%</text>
@@ -135,7 +135,7 @@
 <text x="282.0" y="359.8" font-size="13" font-weight="400" fill="#9198a1" text-anchor="end">29.8%</text>
 <circle cx="28.7" cy="381.1" r="4.7" fill="#f34b7d"/>
 <text x="39.9" y="385.8" font-size="13" font-weight="600" fill="#f0f6fc" text-anchor="start">C++</text>
-<text x="282.0" y="385.8" font-size="13" font-weight="400" fill="#9198a1" text-anchor="end">12.6%</text>
+<text x="282.0" y="385.8" font-size="13" font-weight="400" fill="#9198a1" text-anchor="end">12.7%</text>
 <circle cx="312.7" cy="329.1" r="4.7" fill="#41b883"/>
 <text x="323.9" y="333.8" font-size="13" font-weight="600" fill="#f0f6fc" text-anchor="start">Vue</text>
 <text x="566.0" y="333.8" font-size="13" font-weight="400" fill="#9198a1" text-anchor="end">6.9%</text>
