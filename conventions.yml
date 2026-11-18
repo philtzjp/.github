@@ -17,8 +17,7 @@ commit:
     repository_scope: repo
     # 説明は日本語で書く
     require_japanese: true
-    # 本文を書いてよい。本文には、コードのコメントの代わりに、そのコードがそうなっていなければならない理由を書く。
-    # 採用した理由は書かない。リファクタリングのように動作が同じで、後から好きに変えてよい変更には本文を書かない。
+    # true なら 1 行だけにし、本文を書かない
     single_line: false
     # 説明に #N を書かない
     forbid_issue_numbers: true
